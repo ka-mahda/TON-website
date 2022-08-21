@@ -1744,7 +1744,9 @@ footer #footerLinks a {
   color: var(--pColor);
   line-height: 32px;
 }
-
+footer #footerLinks a:hover{
+  color: var(--aColorBlue);
+}
 footer #footerLinks .titleFooter {
   font-size: 18px;
   font-weight: 700;
